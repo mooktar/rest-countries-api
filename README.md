@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Rest Countries API](https://github.com/mooktar/rest-countries-api)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub repository](https://github.com/mooktar/rest-countries-api)
+- Live Site URL: [Vercel hosting](https://rest-countries-api-brown-sigma.vercel.app/)
 
 ## My process
 
