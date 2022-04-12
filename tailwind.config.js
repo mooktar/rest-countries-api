@@ -9,7 +9,7 @@ module.exports = {
           '2xl': '1440px'
         },
         fontFamily: {
-          sans: ['Poppins','sans-serif']
+          sans: ['Nunito Sans','sans-serif']
         },
         colors: {
           darkbg: "hsl(207, 26%, 17%)",
